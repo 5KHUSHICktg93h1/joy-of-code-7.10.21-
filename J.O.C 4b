@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+
+int main()
+{
+    unsigned char a=22, b;
+    printf("a>>1=%d\n", a>>1);
+    printf("b>>1= %d\n", b>>1);
+}
